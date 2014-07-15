@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Myriad Mobile Android Challenge</string>
+    <string name="title_quest_list">Quests</string>
+    <string name="title_quest_detail">Quest Detail</string>
+
+</resources>
